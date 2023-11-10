@@ -26,5 +26,11 @@ Yes, we can think of microservices architecture as an optimization for the probl
 - Increases operational complexicity to a larger extend
 - It becomes difficult to understand the system holistically.
 
+Challenges in building microservices? 
+Designing cloud native applications following microservices approach need a different thinking on building, deploying and operating the system. 
+In complex ecosystem - we cannot uncover all ways the microservice behave / failure cases -- we must be able to deal with **uncertainity**
 
-  
+Here are five things to keep in mind while building microservice - 
+
+
+Designing for faults - Building distributed system has to deal with network errors and latency
